@@ -46,7 +46,7 @@ The for loop with "let i = 0; i < 5; i++" inside the parathesis represents a val
 
 ## Quiz 6
 
-## 1.
+### 1.
 The built-in functions "Math.random" and "prompt" are designed to return a value. They will return a value when they complete their jobs in the code.
 
 ### 3.
